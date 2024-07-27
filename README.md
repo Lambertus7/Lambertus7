@@ -1,16 +1,44 @@
-## Hi there 👋
+# About Me
 
-<!--
-**Lambertus7/Lambertus7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a caffeinated junior Full-Stacker with lots of passion for coding! I was born and raised on the Caribbean Island known as Aruba 🇦🇼 but currently residing in the Netherlands🇳🇱<br>
+Since i was a chile had a fascination with technologies and it seemed only fitting that i make my way into the coding.
+<br>
 
-Here are some ideas to get you started:
+## Multilingual
+- Papiamento (Native)
+- English (Fluent)
+- Dutch (Proficient)
+- Spanish (Adept)
+- Japanese (Work in porgress)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack 
+### Programming Languages
+- [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [Typescript](https://www.typescriptlang.org/)
+
+### Frontend
+- [React](https://react.dev/)
+- [Next.js](https://nextjs.org/)
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTMLurl)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [Tailwind CSS](https://tailwindcss.com/)
+
+### Backend
+- [Express js](https://expressjs.com/)
+- [Node.js](https://nodejs.org/en)
+- [Prisma](https://www.prisma.io/)
+- [SQLite](https://www.sqlite.org/index.html)
+
+## Projects
+### - QuickBiteQR <br>
+QuickBiteQR is a web application that allows restaurants and dining establishments to convert their traditional menus into digital ones, making them easily accessible to customers by scanning a QR-Code, which is found at at every table. The back office features a comprehensive dashboard where staff can view and manage all order data, including details from specific tables. This setup enables employees to track orders, monitor table assignments, and calculate totals efficiently
+<br>
+### Extras <br>
+🌱 I’m currently learning Angular; i also make time for python when i have the chance. What i really want to learn and become proficient in is the field of Cybersecurity. This is something I genuinely gets my blood pumping. 
+<br>
+💬 Ask me about my hobbies! I have a dozen things that I love to do in my free time. From gaming to practicing Brazilian Jiu-Jitsu, there is a lot to me than just being a caffeinated programmer!
+<br>
+📫 How to reach me:
+[This is my LinkedIn profile:](https://www.linkedin.com/in/brandon-lambertus-13491823a/)
+<br>
+- ⚡ Fun fact: I used to be an English Major and i've taught english for two years in the Netherlands until i made the switch to programming.
