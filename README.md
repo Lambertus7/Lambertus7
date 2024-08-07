@@ -44,13 +44,16 @@ QuickBiteQR is a web application that allows restaurants and dining establishmen
 - [QuickBiteQR - Backend](https://github.com/Lambertus7/QuickBiteQR-BackEnd)
 <br>
 
-## Extras info:
+## Extra info:
 <br>
 🌱 I’m currently learning Angular; I also make time for Python when I can. What I want to learn and become proficient in is the field of Cybersecurity. This is something that genuinely gets my blood pumping. 
 <br>
 💬 Ask me about my hobbies! I have a dozen things that I love to do in my free time. From gaming to practicing Brazilian Jiu-Jitsu, there is a lot to me than just being a caffeinated programmer!
 <br>
 📫 How to reach me:
-[This is my LinkedIn profile](https://www.linkedin.com/in/brandon-lambertus-13491823a/)
+<br>
+https://www.linkedin.com/in/brandon-lambertus/
+<br>
+For a faster response, you can always contact me via my Gmail: lambertus.brandon@gmail.com
 <br>
 ⚡ Fun fact: I was an English Major and taught English for two years in the Netherlands until I switched to programming.
