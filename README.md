@@ -46,11 +46,11 @@ QuickBiteQR is a web application that allows restaurants and dining establishmen
 
 ## Extras info:
 <br>
-🌱 I’m currently learning Angular; I also make time for Python when I have the chance. What I want to learn and become proficient in is the field of Cybersecurity. This is something that genuinely gets my blood pumping. 
+🌱 I’m currently learning Angular; I also make time for Python when I can. What I want to learn and become proficient in is the field of Cybersecurity. This is something that genuinely gets my blood pumping. 
 <br>
 💬 Ask me about my hobbies! I have a dozen things that I love to do in my free time. From gaming to practicing Brazilian Jiu-Jitsu, there is a lot to me than just being a caffeinated programmer!
 <br>
 📫 How to reach me:
 [This is my LinkedIn profile](https://www.linkedin.com/in/brandon-lambertus-13491823a/)
 <br>
-- ⚡ Fun fact: I used to be an English Major and I taught English for two years in the Netherlands until I made the switch to programming.
+⚡ Fun fact: I was an English Major and taught English for two years in the Netherlands until I switched to programming.
