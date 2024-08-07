@@ -37,7 +37,7 @@ I am 28 years old and have moved from my little Island to the big city that is R
 [![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)](https://jestjs.io/)
 
 ## Projects
-### - QuickBiteQR <br>
+### QuickBiteQR <br>
 QuickBiteQR is a web application that allows restaurants and dining establishments to convert their traditional menus into digital ones, making them easily accessible to customers by scanning a QR code, which is found at every table. The back office features a comprehensive dashboard where staff can view and manage all order data, including details from specific tables. This setup enables employees to track orders, monitor table assignments, and calculate totals efficiently.
 - [QuickBiteQR - Frontend](https://github.com/Lambertus7/QuickBiteQR-Frontend)
 - [QuickBiteQR - Backend](https://github.com/Lambertus7/QuickBiteQR-BackEnd)
