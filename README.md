@@ -1,6 +1,6 @@
 # About Me
 
-I am a caffeinated junior Full-Stacker with a lot of passion for coding! I was born and raised on the Caribbean Island known as Aruba 🇦🇼 but currently, I am residing in the Netherlands 🇳🇱<br>
+I am a caffeinated Full-Stacker with a lot of passion for coding! I was born and raised on the Caribbean Island known as Aruba 🇦🇼 but currently, I am residing in the Netherlands 🇳🇱<br>
 I am 28 years old and have moved from my little Island to the big city that is Rotterdam; I'm just a small-town boy living in a big world! Ever since I was a child, I had a fascination with technology and it seemed only fitting that I made my way into coding. The first step to world domination is complete!
 <br>
 
