@@ -8,7 +8,7 @@ I am 28 years old and have moved from my little Island to the big city that is R
 - Papiamento (Native)
 - English (Fluent)
 - Dutch (Proficient)
-- Spanish (Adept)
+- Spanish (Amateur)
 - Japanese (Work in progress)
 
 ## Tech Stack 
