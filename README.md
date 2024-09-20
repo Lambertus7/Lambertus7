@@ -1,7 +1,7 @@
 # About Me
 
 I am a caffeinated Full-Stacker with a lot of passion for coding! I was born and raised on the Caribbean Island known as Aruba 🇦🇼 but currently, I am residing in the Netherlands 🇳🇱<br>
-I am 28 years old and have moved from my little Island to the big city that is Rotterdam; I'm just a small-town boy living in a big world! Ever since I was a child, I had a fascination with technology and it seemed only fitting that I made my way into coding. The first step to world domination is complete!
+I am 28 years old and have moved from my little island to the big city of Rotterdam; I'm just a small-town boy living in a big world! Ever since I was a child, I had a fascination with technology and it seemed only fitting that I made my way into coding. The first step to world domination is complete!
 <br>
 
 ## Multilingual
@@ -46,7 +46,7 @@ QuickBiteQR is a web application that allows restaurants and dining establishmen
 
 ## Extra info:
 <br>
-🌱 I’m currently learning Angular; I also make time for Python when I can. What I want to learn and become proficient in is the field of Cybersecurity. This is something that genuinely gets my blood pumping. 
+🌱 I’m currently learning React Native and make time for Python when possible. What I want to learn and become proficient in is the field of Cybersecurity. This is something that genuinely gets my blood pumping. 
 <br>
 💬 Ask me about my hobbies! I have a dozen things that I love to do in my free time. From gaming to practicing Brazilian Jiu-Jitsu, there is a lot to me than just being a caffeinated programmer!
 <br>
