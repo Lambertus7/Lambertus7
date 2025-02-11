@@ -11,6 +11,9 @@ I am 28 years old and have moved from my little island to the big city of Rotter
 - Spanish (Amateur)
 - Japanese (Work in progress)
 
+## Education
+[![Codecademy](https://img.shields.io/badge/Codecademy-%2321759B.svg?logo=codecademy&logoColor=white)](https://www.codecademy.com/)
+
 ## Tech Stack 
 ### Programming Languages
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
