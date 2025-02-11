@@ -28,6 +28,7 @@ I am 28 years old and have moved from my little island to the big city of Rotter
 [![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 [![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)](https://www.prisma.io/)
 [![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/index.html)
+[![PostGreSQL]((https://img.shields.io/badge/postgreSQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white))]((https://www.postgresql.org/))
 
 ### Utilities
 [![Zod](https://img.shields.io/badge/Zod-2D3748?style=for-the-badge&logo=zod&logoColor=white)](https://zod.dev/)
