@@ -13,7 +13,7 @@ I am 28 years old and have moved from my little island to the big city of Rotter
 
 ## Education
 [![Codecademy](https://img.shields.io/badge/Codecademy-%2321759B.svg?logo=codecademy&logoColor=white)](https://www.codecademy.com/)
-[![MindMingle](https://img.shields.io/badge/Codecademy-%2321759B.svg?logo=codecademy&logoColor=white)](https://www.mindmingle.nl/)
+[![MindMingle](https://img.shields.io/badge/MindMingle-%2321759B.svg?logo=codecademy&logoColor=white)](https://www.mindmingle.nl/)
 
 ## Tech Stack 
 ### Programming Languages
